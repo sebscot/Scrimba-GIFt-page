@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://cdn.jsdelivr.net/npm/js-confetti@latest/dist/js-confetti.browser.js",
+            "request": "launch",
+            "url": "https://cdn.jsdelivr.net/npm/js-confetti@latest/dist/js-confetti.browser.js"
+        }
+    ]
+}
